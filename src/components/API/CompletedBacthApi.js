@@ -1,0 +1,60 @@
+const CompletedBatchApi = [
+  {
+    batchTitle: "AI/David/01-Jul",
+    counseTitle: "AI and Machine Learning",
+    tutor: "David Brown",
+    duration: "2024-07-01 To 2024-11-30",
+    batchTime: "03:00 PM - 05:00 PM",
+    studentCount: 12,
+  },
+  {
+    batchTitle: "Frontend/Eve/15-Apr",
+    counseTitle: "React.js Basics",
+    tutor: "Eve Davis",
+    duration: "2024-04-01 To 2024-08-31",
+    batchTime: "10:00 AM - 12:00 PM",
+    studentCount: 6,
+  },
+  {
+    batchTitle: "DevOps/Frank/01-Oct",
+    counseTitle: "DevOps with Docker and Kubernetes",
+    tutor: "Frank Miller",
+    duration: "2024-10-01 To 2025-02-28",
+    batchTime: "01:00 PM - 03:00 PM",
+    studentCount: 9,
+  },
+  {
+    batchTitle: "Frontend/Nitin/01-May",
+    counseTitle: "MERN STACK",
+    tutor: "Nitin Bela",
+    duration: "2024-01-01 To 2024-05-31",
+    batchTime: "10:00 AM - 12:00 PM",
+    studentCount: 1,
+  },
+  {
+    batchTitle: "Backend/Alice/15-Jun",
+    counseTitle: "Node.js Advanced",
+    tutor: "Alice Johnson",
+    duration: "2024-06-01 To 2024-10-31",
+    batchTime: "02:00 PM - 04:00 PM",
+    studentCount: 5,
+  },
+  {
+    batchTitle: "FullStack/Bob/01-Mar",
+    counseTitle: "Full Stack Development",
+    tutor: "Bob Smith",
+    duration: "2024-03-01 To 2024-07-31",
+    batchTime: "09:00 AM - 11:00 AM",
+    studentCount: 10,
+  },
+  {
+    batchTitle: "DataScience/Carol/15-Sep",
+    counseTitle: "Data Science with Python",
+    tutor: "Carol White",
+    duration: "2024-09-01 To 2025-01-31",
+    batchTime: "11:00 AM - 01:00 PM",
+    studentCount: 8,
+  },
+];
+
+export default CompletedBatchApi;
